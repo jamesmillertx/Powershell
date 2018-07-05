@@ -2,3 +2,4 @@ $exoPSModulePath = $((Get-ChildItem -Path $($env:LOCALAPPDATA+"\Apps\2.0\") -Fil
 
 Import-Module $exoPSModulePath
 Import-Module MillerModule
+Import-Module Posh-Git

@@ -4,6 +4,7 @@ Import-Module Microsoft.Online.SharePoint.PowerShell -DisableNameChecking
 Import-Module SkypeOnlineConnector
 Import-Module MSOnline
 Import-Module MillerModule
+Import-Module Posh-Git
 
 # Start ISESteroids
 Start-Steroids
